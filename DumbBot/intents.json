@@ -1,0 +1,120 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "What's up?",
+        "How's it going?",
+        "Greetings",
+        "Salutations",
+        "Hello there"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later", 
+        "Goodbye", 
+        "Later", 
+        "Have a good day",
+        "See you later alligator",
+        "See you soon",
+        "I have to go",
+        "Gotta go",
+        "I'll be back",
+        "I'm off",
+        "I'm going",
+        "I have to leave",
+        "I gotta leave"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks", 
+        "Thank you", 
+        "That's helpful", 
+        "Thanks a lot!",
+        "Thanks for your help",
+        "Thank you for your help",
+        "Thank you very much",
+        "Many thanks",
+        "Thanks very much"
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?",
+        "What do you have for sale?",
+        "What are you selling?",
+        "What are your wares",
+        "What do you offer",
+        "What can I buy from you",
+        "What can I buy",
+        "What's for sale"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Do you accept Cash?",
+        "Do you accept Visa?",
+        "Can I pay with Paypal?",
+        "Are you cash only?",
+        "How can I pay?",
+        "What can I pay with?",
+        "How can I pay you?",
+        "What payments do you take?",
+        "What payments do you accept?",
+        "Can I pay with cash?",
+        "Can I pay with card?",
+        "Can I pay with Visa?",
+        "Do you accept mastercard?"  
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?",
+        "How long does it take to get my order?",
+        "How long does it take to get my package?",
+        "When will my order arrive?",
+        "When will my package arrive?",
+        "When will my order be delivered?",
+        "When will my package be delivered?",
+        "When will my order be ready?",
+        "When will my package be ready?"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?",
+        "Make me laugh",
+        "Tell me something to make me laugh",
+        "I want to laugh",
+        "I need a laugh",
+        "Do you know something funny?",
+        "Do you know anything funny?",
+        "I need to laugh",
+        "Tell me a joke please"
+      ]
+    }
+  ]
+}
